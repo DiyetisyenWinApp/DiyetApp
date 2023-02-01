@@ -8,6 +8,6 @@ namespace EntityLayer.Entities
 {
     public class Meal
     {
-
+        public int MealID { get; set; }
     }
 }
