@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "C4WqOwCMdWUB/Xe63ACawQO7hD2fewqLHVd0eBBxImWgNmLqi47Rtfy1mzFI2hA/NpSbpFqa98PhE5dxY6nqDg==",
+  "dgSpecHash": "ounOSFeaVSn88QBVowkArjHkFsaSbNZVjmvA53KdFg4efQ2yPEtZ0kJkrHBJuN+DQaUQwXT2bobPMPeyzfV5kQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\Dyt\\DiyetApp\\BusinessLayer\\BusinessLayer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\onurk\\Desktop\\GitHub OPrtak Proje\\DiyetApp\\BusinessLayer\\BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onurk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\onurk\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\onurk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

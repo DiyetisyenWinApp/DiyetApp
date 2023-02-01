@@ -13,10 +13,10 @@ namespace EntityLayer.Entities
         public int UserID { get; set; }
         
         public string UserName { get; set; }
-        public string Mail { get; set; }
+        public string E_Mail { get; set; }
 
         public string Password { get; set; }
-        public UserDetail userDetail { get; set; }
+        public UserDetail UserDetail { get; set; }
        
     }
 }
