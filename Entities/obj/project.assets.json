@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\DiyetApp\\Entities\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\Dyt\\DiyetApp\\Entities\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\DiyetApp\\Entities\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\Dyt\\DiyetApp\\Entities\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\Ertan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\DiyetApp\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\Dyt\\DiyetApp\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

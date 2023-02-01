@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VSjEDfct4EnBAk/IUbOKSZI3nEH1gyC460XeWPeCa8SprD+NNpdFEsMrvrECRJgEj2b5Zf9AYCNEAeDSs5wicA==",
+  "dgSpecHash": "C4WqOwCMdWUB/Xe63ACawQO7hD2fewqLHVd0eBBxImWgNmLqi47Rtfy1mzFI2hA/NpSbpFqa98PhE5dxY6nqDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\DiyetApp\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\Dyt\\DiyetApp\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EntityLayer.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,12 @@ namespace EntityLayer.Entities
 {
     public class UserDetail
     {
-        public int MyProperty { get; set; }
+        public int ID { get; set; }
+        public DateTime? Birthdate { get; set; }
+        public DateTime? CreateDate { get; set; }
+        public Role Role { get; set; }
+        public Gender Gender { get; set; }
+        public int UserID { get; set; }
+        public User User { get; set; }
     }
 }
