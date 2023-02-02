@@ -333,6 +333,33 @@
             "rid": "win"
           }
         }
+      },
+      "DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EntityFramework": "6.4.4",
+          "EntityLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccessLayer.dll": {}
+        }
+      },
+      "EntityLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "EntityFramework": "6.4.4"
+        },
+        "compile": {
+          "bin/placeholder/EntityLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntityLayer.dll": {}
+        }
       }
     }
   },
@@ -1071,11 +1098,23 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DataAccessLayer.csproj",
+      "msbuildProject": "../DAL/DataAccessLayer.csproj"
+    },
+    "EntityLayer/1.0.0": {
+      "type": "project",
+      "path": "../Entities/EntityLayer.csproj",
+      "msbuildProject": "../Entities/EntityLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "EntityFramework >= 6.4.4"
+      "DataAccessLayer >= 1.0.0",
+      "EntityFramework >= 6.4.4",
+      "EntityLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1109,7 +1148,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\Dyt\\DiyetApp\\DAL\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\Dyt\\DiyetApp\\DAL\\DataAccessLayer.csproj"
+            },
+            "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\Dyt\\DiyetApp\\Entities\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Ertan\\Desktop\\DiyetisenApp\\Dyt\\DiyetApp\\Entities\\EntityLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
