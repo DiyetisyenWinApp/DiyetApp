@@ -11,11 +11,11 @@ namespace EntityLayer.Entities
     public class Product
     {
         public int ProductID { get; set; }
+        
         [StringLength(50)]
         public string Name { get; set; }
         public double Calori { get; set; }
         public ProductType productType { get; set; }
-      
 
     }
 }
