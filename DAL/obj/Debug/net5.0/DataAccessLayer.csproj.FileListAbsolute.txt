@@ -16,3 +16,21 @@ C:\Users\Ertan\Desktop\DiyetisenApp\Dyt\DiyetApp\DAL\obj\Debug\net5.0\refint\Dat
 C:\Users\Ertan\Desktop\DiyetisenApp\Dyt\DiyetApp\DAL\obj\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\Ertan\Desktop\DiyetisenApp\Dyt\DiyetApp\DAL\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\Ertan\Desktop\DiyetisenApp\Dyt\DiyetApp\DAL\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\obj\Debug\net5.0\refint\DataAccessLayer.dll
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\DAL\obj\Debug\net5.0\ref\DataAccessLayer.dll

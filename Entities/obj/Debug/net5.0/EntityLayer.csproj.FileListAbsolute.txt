@@ -13,3 +13,18 @@ C:\Users\Ertan\Desktop\DiyetisenApp\Dyt\DiyetApp\Entities\obj\Debug\net5.0\refin
 C:\Users\Ertan\Desktop\DiyetisenApp\Dyt\DiyetApp\Entities\obj\Debug\net5.0\EntityLayer.pdb
 C:\Users\Ertan\Desktop\DiyetisenApp\Dyt\DiyetApp\Entities\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
 C:\Users\Ertan\Desktop\DiyetisenApp\Dyt\DiyetApp\Entities\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\onurk\Desktop\GitHub OPrtak Proje\DiyetApp\Entities\obj\Debug\net5.0\ref\EntityLayer.dll
